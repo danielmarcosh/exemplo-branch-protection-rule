@@ -1,1 +1,1 @@
-# exemplo-branch-protection-rule
+# Exemplo branch protection rule
