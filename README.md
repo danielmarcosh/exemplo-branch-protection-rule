@@ -1,0 +1,1 @@
+# exemplo-branch-protection-rule
